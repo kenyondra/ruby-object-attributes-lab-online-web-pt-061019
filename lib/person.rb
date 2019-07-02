@@ -10,6 +10,9 @@ class Person
   john = Person.new 
   john.name = "John"
   
+  puts john.name
+  
+  
   
     
     
