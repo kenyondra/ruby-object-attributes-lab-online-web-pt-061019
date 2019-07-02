@@ -13,6 +13,7 @@ class Person
   puts john.name
   
   
-  
+  class Person
+    def 
     
     
