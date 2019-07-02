@@ -9,4 +9,4 @@ class Dog
   end
 end
 
-lassie
+lassie = Dog.name
