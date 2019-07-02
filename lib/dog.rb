@@ -12,4 +12,19 @@ end
 lassie = Dog.new 
 lassie.name = "Lassie"
 
-puts lassie.name
+puts lassie.name 
+
+class Dog 
+  def breed=(dogs_breed)
+    @this_dog_breed = dogs_breed 
+  end
+  
+  def breed
+    @this_dog_breed 
+  end
+end
+
+poodle = Dog.new 
+poodle.breed = "Poodle"
+
+puts poodle.breed
