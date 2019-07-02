@@ -7,6 +7,6 @@ class Person
     @this_persons_name
   end
   
-  john
+  john = 
     
     
