@@ -8,6 +8,8 @@ class Person
   end
   
   john = Person.new 
-  john.name
+  john.name = "John"
+  
+  
     
     
